@@ -1,0 +1,24 @@
+* c44c5fd (HEAD -> main, origin/main, origin/HEAD) docs: Add changelog
+*   480ab1f Merge pull request #2 from Charan-guggilapu123/feature/new
+|\  
+| * de73aa1 (origin/feature/new, feature/new) Add feature branch test file
+* |   48c35c0 Merge pull request #3 from Charan-guggilapu123/feature/another-feature
+|\ \  
+| |/  
+|/|   
+| * acc255f (origin/feature/another-feature) feat: Add test feature
+| * e9e9300 (tag: v1.1.0, tag: v1.0.0, feature/another-feature) docs: update README
+|/  
+| * 23fa914 (origin/feature/new-feature, feature/new-feature) Add feature/new-feature test file
+|/  
+* fed772b feat: Add new feature
+* 1e3fc7b docs: Add FAQ section
+*   7639c50 (features/new-feature) merge: Resolve all conflicts between main and conflict-simulator branches
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+| * 02011a5 (instructor/dev, dev) updating dev
+|/  
+* ae630eb Initial commit

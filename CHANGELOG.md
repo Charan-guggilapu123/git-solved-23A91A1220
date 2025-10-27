@@ -1,0 +1,8 @@
+- e9e9300: docs: update README (Charan-guggilapu123, 20 minutes ago)
+- fed772b: feat: Add new feature (Charan-guggilapu123, 4 hours ago)
+- 1e3fc7b: docs: Add FAQ section (Charan-guggilapu123, 4 hours ago)
+- 7639c50: merge: Resolve all conflicts between main and conflict-simulator branches (Charan-guggilapu123, 4 hours ago)
+- d3dd9b2: updating conflict-simulator (Hanu Gupta, 4 days ago)
+- 0312c6f: updating main (Hanu Gupta, 4 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 4 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 4 days ago)
